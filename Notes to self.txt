@@ -1,0 +1,2 @@
+Use Hibernate ORM 5.4 as it supports JavaEE. Upper versions are for JakartaEE which won't work
+with Spring Framework 5.
